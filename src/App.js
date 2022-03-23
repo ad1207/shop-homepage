@@ -11,9 +11,6 @@ function App() {
   return (
     <>
       <ShopComponent/>
-      <HeaderComponent />
-      <SectionComponent />
-      <FooterComponent />
     </>
     
   );
